@@ -108,7 +108,6 @@
 
     <!-- analytics enabled -->
     <bool name="analytics_enabled">false</bool>
-    <bool name="push_enabled">false</bool>
 </resources>
 
 
